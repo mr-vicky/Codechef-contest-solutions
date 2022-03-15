@@ -1,0 +1,5 @@
+*.exe
+*.prob
+*.json
+*.bin
+gitignore
