@@ -10,6 +10,9 @@ int main()
         int x, y, z;
         cin>>x>>y;
         z = 21-(x+y);
+<<<<<<< HEAD
+        (z >= 1 && z <= 10)?cout<<"z\n":cout<<"-1\n";
+=======
         if(z >= 1 && z <= 10)
         {
             cout<<z<<endl;
@@ -18,6 +21,7 @@ int main()
         {
             cout<<-1<<endl;
         }
+>>>>>>> f6fe0db23363ac8977af5c2d62620290d5c0a704
     }
     return 0;
 }
