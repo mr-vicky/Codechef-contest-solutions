@@ -7,10 +7,9 @@ int main()
     cin>>t;
     while(t--)
     {
-        int x, y, z;
-        cin>>x>>y;
-        z = 21-(x+y);\
-        (z >= 1 && z <= 10)?cout<<"z\n":cout<<"-1\n";
+        int x;
+        cin>>x;
+        (x>=1 && x<=4)?cout<<"YES\n":cout<<"NO"<<"\n";
     }
     return 0;
 }

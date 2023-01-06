@@ -8,9 +8,13 @@ int main()
     while(t--)
     {
         int x, y, z;
-        cin>>x>>y;
-        z = 21-(x+y);\
-        (z >= 1 && z <= 10)?cout<<"z\n":cout<<"-1\n";
+        cin>>x>>y>>z;
+
+        int t = y/x;
+        int res = z-t;
+        if(res < 0) cout<<"0"<<"\n";
+        else cout<<res<<"\n";
     }
     return 0;
 }
+    

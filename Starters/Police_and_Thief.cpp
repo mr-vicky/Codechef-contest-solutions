@@ -1,4 +1,5 @@
 #include<iostream>
+#include<cmath>
 using namespace std;
 
 int main()
@@ -7,10 +8,13 @@ int main()
     cin>>t;
     while(t--)
     {
-        int x, y, z;
+        int x, y;
         cin>>x>>y;
-        z = 21-(x+y);\
-        (z >= 1 && z <= 10)?cout<<"z\n":cout<<"-1\n";
+        abs(x);
+        abs(y);
+        int t = (y-x);
+        cout<<abs(t)<<"\n";
+
     }
     return 0;
 }
