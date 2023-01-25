@@ -1,7 +1,9 @@
-# Codechef-contest-solutions
+# **Codechef-contest-solutions**
 
 This is my GitHub repository, where I practised and coded all the problems that I solved during Codechef contests.
 
-Profile Link :
+## **Contests**
 
-* [Codechef](https://www.codechef.com/users/vicky_96)
+* [CookOff](https://github.com/mr-vicky/Codechef-contest-solutions/tree/master/CookOff)
+* [LunchTime](https://github.com/mr-vicky/Codechef-contest-solutions/tree/master/LunchTime)
+* [Starters](https://github.com/mr-vicky/Codechef-contest-solutions/tree/master/Starters)
